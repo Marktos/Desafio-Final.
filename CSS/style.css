@@ -27,5 +27,5 @@ div, img{
     position: relative;
 }
 .menu{
-
+    display: flex;
 }
